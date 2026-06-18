@@ -1,0 +1,2 @@
+I have done a module on exit and billing system.In this module ,when a vehicle exits from the alloted slot,it must display the slot number vacated and calculate the bill based on the type of vehicle and no of hours spent in the parking lot.
+This is a team project and we have gained skills in using the concepts of c++ in building an application and we explored an ai tool known as Replit ai to design a web application for our project.
